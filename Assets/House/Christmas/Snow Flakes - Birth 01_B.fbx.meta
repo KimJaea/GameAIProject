@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 9359e0c98ef270a4391752425e2ba1c4
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Snow Flakes - Birth 01 B_MeshPart0
+    100002: Snow Flakes - Birth 01 B_MeshPart1
+    100004: Snow Flakes - Birth 01 B_MeshPart10
+    100006: Snow Flakes - Birth 01 B_MeshPart11
+    100008: Snow Flakes - Birth 01 B_MeshPart12
+    100010: Snow Flakes - Birth 01 B_MeshPart13
+    100012: Snow Flakes - Birth 01 B_MeshPart14
+    100014: Snow Flakes - Birth 01 B_MeshPart15
+    100016: Snow Flakes - Birth 01 B_MeshPart16
+    100018: Snow Flakes - Birth 01 B_MeshPart2
+    100020: Snow Flakes - Birth 01 B_MeshPart3
+    100022: Snow Flakes - Birth 01 B_MeshPart4
+    100024: Snow Flakes - Birth 01 B_MeshPart5
+    100026: Snow Flakes - Birth 01 B_MeshPart6
+    100028: Snow Flakes - Birth 01 B_MeshPart7
+    100030: Snow Flakes - Birth 01 B_MeshPart8
+    100032: Snow Flakes - Birth 01 B_MeshPart9
+    100034: //RootNode
+    400000: Snow Flakes - Birth 01 B_MeshPart0
+    400002: Snow Flakes - Birth 01 B_MeshPart1
+    400004: Snow Flakes - Birth 01 B_MeshPart10
+    400006: Snow Flakes - Birth 01 B_MeshPart11
+    400008: Snow Flakes - Birth 01 B_MeshPart12
+    400010: Snow Flakes - Birth 01 B_MeshPart13
+    400012: Snow Flakes - Birth 01 B_MeshPart14
+    400014: Snow Flakes - Birth 01 B_MeshPart15
+    400016: Snow Flakes - Birth 01 B_MeshPart16
+    400018: Snow Flakes - Birth 01 B_MeshPart2
+    400020: Snow Flakes - Birth 01 B_MeshPart3
+    400022: Snow Flakes - Birth 01 B_MeshPart4
+    400024: Snow Flakes - Birth 01 B_MeshPart5
+    400026: Snow Flakes - Birth 01 B_MeshPart6
+    400028: Snow Flakes - Birth 01 B_MeshPart7
+    400030: Snow Flakes - Birth 01 B_MeshPart8
+    400032: Snow Flakes - Birth 01 B_MeshPart9
+    400034: //RootNode
+    2300000: Snow Flakes - Birth 01 B_MeshPart0
+    2300002: Snow Flakes - Birth 01 B_MeshPart1
+    2300004: Snow Flakes - Birth 01 B_MeshPart10
+    2300006: Snow Flakes - Birth 01 B_MeshPart11
+    2300008: Snow Flakes - Birth 01 B_MeshPart12
+    2300010: Snow Flakes - Birth 01 B_MeshPart13
+    2300012: Snow Flakes - Birth 01 B_MeshPart14
+    2300014: Snow Flakes - Birth 01 B_MeshPart15
+    2300016: Snow Flakes - Birth 01 B_MeshPart16
+    2300018: Snow Flakes - Birth 01 B_MeshPart2
+    2300020: Snow Flakes - Birth 01 B_MeshPart3
+    2300022: Snow Flakes - Birth 01 B_MeshPart4
+    2300024: Snow Flakes - Birth 01 B_MeshPart5
+    2300026: Snow Flakes - Birth 01 B_MeshPart6
+    2300028: Snow Flakes - Birth 01 B_MeshPart7
+    2300030: Snow Flakes - Birth 01 B_MeshPart8
+    2300032: Snow Flakes - Birth 01 B_MeshPart9
+    3300000: Snow Flakes - Birth 01 B_MeshPart0
+    3300002: Snow Flakes - Birth 01 B_MeshPart1
+    3300004: Snow Flakes - Birth 01 B_MeshPart10
+    3300006: Snow Flakes - Birth 01 B_MeshPart11
+    3300008: Snow Flakes - Birth 01 B_MeshPart12
+    3300010: Snow Flakes - Birth 01 B_MeshPart13
+    3300012: Snow Flakes - Birth 01 B_MeshPart14
+    3300014: Snow Flakes - Birth 01 B_MeshPart15
+    3300016: Snow Flakes - Birth 01 B_MeshPart16
+    3300018: Snow Flakes - Birth 01 B_MeshPart2
+    3300020: Snow Flakes - Birth 01 B_MeshPart3
+    3300022: Snow Flakes - Birth 01 B_MeshPart4
+    3300024: Snow Flakes - Birth 01 B_MeshPart5
+    3300026: Snow Flakes - Birth 01 B_MeshPart6
+    3300028: Snow Flakes - Birth 01 B_MeshPart7
+    3300030: Snow Flakes - Birth 01 B_MeshPart8
+    3300032: Snow Flakes - Birth 01 B_MeshPart9
+    4300000: Snow Flakes - Birth 01 B_MeshPart0
+    4300002: Snow Flakes - Birth 01 B_MeshPart1
+    4300004: Snow Flakes - Birth 01 B_MeshPart2
+    4300006: Snow Flakes - Birth 01 B_MeshPart3
+    4300008: Snow Flakes - Birth 01 B_MeshPart4
+    4300010: Snow Flakes - Birth 01 B_MeshPart5
+    4300012: Snow Flakes - Birth 01 B_MeshPart6
+    4300014: Snow Flakes - Birth 01 B_MeshPart7
+    4300016: Snow Flakes - Birth 01 B_MeshPart8
+    4300018: Snow Flakes - Birth 01 B_MeshPart9
+    4300020: Snow Flakes - Birth 01 B_MeshPart10
+    4300022: Snow Flakes - Birth 01 B_MeshPart11
+    4300024: Snow Flakes - Birth 01 B_MeshPart12
+    4300026: Snow Flakes - Birth 01 B_MeshPart13
+    4300028: Snow Flakes - Birth 01 B_MeshPart14
+    4300030: Snow Flakes - Birth 01 B_MeshPart15
+    4300032: Snow Flakes - Birth 01 B_MeshPart16
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
